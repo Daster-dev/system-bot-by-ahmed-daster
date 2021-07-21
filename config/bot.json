@@ -1,0 +1,23 @@
+{
+  "links":{
+	  "website":"",
+	  "support":"https://discord.gg/tFbr6H7WJM"
+  },
+  "devlopers":{
+	  "id":["776405003198922763"],
+	  "username":""
+  },
+
+"main":{
+	"prefix":"-"
+},
+
+  "connection":{
+	"token":""
+  }, 
+  "bot":{
+    "activity": "", 
+    "type":"PLAYING"
+  },
+  "projectlink":"true"
+}

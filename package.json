@@ -1,0 +1,24 @@
+{
+  "name": "system-bot-by-daster-and-ahmad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "moment": "^2.29.1",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}

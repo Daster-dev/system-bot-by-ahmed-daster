@@ -1,0 +1,14 @@
+{
+	"done":{
+		"color":"#00ff00",
+		"emoji":"✅"
+	},
+	"warn":{
+		"color":"#bcbf00",
+		"emoji":"⚠"
+	},
+	"err":{
+		"color":"#ff000e",
+		"emoji":"❌"
+	}
+}
